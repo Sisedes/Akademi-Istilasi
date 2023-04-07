@@ -261,7 +261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runspeed: 0
-  walkspeed: 0
+  walkspeed: 10
 --- !u!212 &1162227722
 SpriteRenderer:
   m_ObjectHideFlags: 0
