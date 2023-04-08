@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6743776473715663266}
   m_Layer: 0
   m_Name: Serseri_0
-  m_TagString: Untagged
+  m_TagString: Serseri
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -145,3 +145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd1da8c2c09cb3f47825f823c8bd95e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  waypoints: []
+  movespeed: 0
+  waypointDest: 0
+  enemy: {fileID: 0}
