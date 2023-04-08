@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
+  tags:
+  - Serseri
+  - Character
+  - goblin
+  - gunMan
+=======
   tags: []
+>>>>>>> ba7b3b3bb93178032e4c9e2927b501a3d4797e39
   layers:
   - Default
   - TransparentFX
