@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: aff474fcf46eb8541a2cd181eab66a0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BahceCanavar_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596df35f3719ec94eb41c52466c340ae
+      internalID: -1987293166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BahceCanavar_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 226
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707f48757d15f44e820cff464e83790
+      internalID: 1225066176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BahceCanavar_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 226
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ea87bf7c54d34b934549e6995fe3b
+      internalID: 1343141661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BahceCanavar_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 225
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb96f3ef5979741896db3acdf64737
+      internalID: -27503594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BahceCanavar_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 225
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d700e257db08147a9ccd9c1a0f809f
+      internalID: -159249474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BahceCanavar_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 226
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b6b28dcfb4d8f4ab0c070a4dd27b52
+      internalID: 1535508258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BahceCanavar_31: 1964020793
+      BahceCanavar_34: -765441130
+      BahceCanavar_9: -159249474
+      BahceCanavar_1: -1201012382
+      BahceCanavar_4: -365112837
+      BahceCanavar_32: 1364832776
+      BahceCanavar_42: -1008175371
+      BahceCanavar_16: -1767969425
+      BahceCanavar_17: -318859950
+      BahceCanavar_5: -1987293166
+      BahceCanavar_6: 1225066176
+      BahceCanavar_12: 1170229244
+      BahceCanavar_35: -718661426
+      BahceCanavar_15: -1296401851
+      BahceCanavar_37: 1429136804
+      BahceCanavar_39: -118814642
+      BahceCanavar_10: 1535508258
+      BahceCanavar_26: 499958034
+      BahceCanavar_8: -27503594
+      BahceCanavar_13: 923728572
+      BahceCanavar_43: -302022184
+      BahceCanavar_41: -998372499
+      BahceCanavar_3: -1810432861
+      BahceCanavar_20: -310794754
+      BahceCanavar_14: -2098427449
+      BahceCanavar_33: 1280649738
+      BahceCanavar_23: -67257254
+      BahceCanavar_21: 1997769387
+      BahceCanavar_38: 1613000421
+      BahceCanavar_24: -1288057822
+      BahceCanavar_11: -1475999922
+      BahceCanavar_25: -814432970
+      BahceCanavar_27: 65264903
+      BahceCanavar_2: 1023966217
+      BahceCanavar_28: 79916080
+      BahceCanavar_19: -1491303697
+      BahceCanavar_7: 1343141661
+      BahceCanavar_36: -550275325
+      BahceCanavar_30: -510481492
+      BahceCanavar_40: 669152401
+      BahceCanavar_0: -777957289
+      BahceCanavar_22: -1604462296
+      BahceCanavar_18: 1904126558
+      BahceCanavar_29: -2010846404
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
