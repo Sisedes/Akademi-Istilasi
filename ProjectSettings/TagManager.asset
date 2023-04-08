@@ -5,9 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Character
+<<<<<<< HEAD
   - Serseri
   - gunMan
   - goblin
+=======
+  - atestopu
+>>>>>>> 7889db91cc38db2f191f689ebbf571223b954589
   layers:
   - Default
   - TransparentFX
