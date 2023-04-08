@@ -11,10 +11,7 @@ public class CharacterControls : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
     }
-   // void Move(Vector3 direction)
-    //{
-      //  transform.position += direction * walkspeed * Time.deltaTime;
-    //}
+   
     void Update()
     {
         Movement();
