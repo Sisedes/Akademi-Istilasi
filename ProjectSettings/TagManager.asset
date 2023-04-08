@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
+  tags:
+  - Character
+  - Serseri
+  - agacAdam
+  - goblin
+  - gunMan
+  - collectableItem
+  - food
+=======
   tags: []
+>>>>>>> b01c187ee650bed7988c2ce97d9bf53955b46399
   layers:
   - Default
   - TransparentFX
