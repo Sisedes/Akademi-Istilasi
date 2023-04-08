@@ -6,4 +6,8 @@ public class Scene : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+    public void AnaMenuyeDon()
+    {
+        SceneManager.LoadScene(0);
+    }
 }

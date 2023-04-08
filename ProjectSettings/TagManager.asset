@@ -3,20 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Character
-<<<<<<< HEAD
-  - Serseri
-  - gunMan
-  - goblin
-=======
-  - atestopu
->>>>>>> 7889db91cc38db2f191f689ebbf571223b954589
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Wall
+  - 
   - Water
   - UI
   - 
@@ -48,13 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: ArkaKatman
-    uniqueID: 1091638111
-    locked: 0
-  - name: OrtaKatman
-    uniqueID: 3411897019
-    locked: 0
-  - name: OnKatman
-    uniqueID: 3228696277
     locked: 0
