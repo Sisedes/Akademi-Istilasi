@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    public int coinValue = 1;
+    public int coinValue = 0;
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        //if (other.gameObject.CompareTag("Serseri") || other.gameObject.CompareTag("goblin") || other.gameObject.CompareTag("agacAdam"))
-        
-
-   
+        if (collision.CompareTag("Character"))
+        {
+            coinValue++;
+            Destroy(gameObject);
+        }
     }
 }
