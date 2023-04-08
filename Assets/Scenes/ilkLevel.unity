@@ -51114,6 +51114,7 @@ GameObject:
   - component: {fileID: 288549789}
   - component: {fileID: 288549791}
   - component: {fileID: 288549790}
+  - component: {fileID: 288549792}
   m_Layer: 0
   m_Name: kahve (1)
   m_TagString: Untagged
@@ -51214,6 +51215,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &288549792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 288549788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b3de80b5d2dc4dac12594a0b00b69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinValue: 0
 --- !u!1 &302176897
 GameObject:
   m_ObjectHideFlags: 0
@@ -51371,6 +51385,7 @@ GameObject:
   - component: {fileID: 447503291}
   - component: {fileID: 447503293}
   - component: {fileID: 447503292}
+  - component: {fileID: 447503294}
   m_Layer: 0
   m_Name: kahve
   m_TagString: Untagged
@@ -51471,6 +51486,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &447503294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447503290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b3de80b5d2dc4dac12594a0b00b69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinValue: 0
 --- !u!1 &482618744
 GameObject:
   m_ObjectHideFlags: 0
@@ -51482,6 +51510,7 @@ GameObject:
   - component: {fileID: 482618745}
   - component: {fileID: 482618747}
   - component: {fileID: 482618746}
+  - component: {fileID: 482618748}
   m_Layer: 0
   m_Name: elma
   m_TagString: Untagged
@@ -51582,6 +51611,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &482618748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482618744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b3de80b5d2dc4dac12594a0b00b69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinValue: 0
 --- !u!1 &531027530
 GameObject:
   m_ObjectHideFlags: 0
@@ -65025,6 +65067,7 @@ GameObject:
   - component: {fileID: 1224072798}
   - component: {fileID: 1224072800}
   - component: {fileID: 1224072799}
+  - component: {fileID: 1224072801}
   m_Layer: 0
   m_Name: sucuklu tost (2)
   m_TagString: Untagged
@@ -65125,6 +65168,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1224072801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224072797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b3de80b5d2dc4dac12594a0b00b69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinValue: 0
 --- !u!1001 &1263527739
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -65253,6 +65309,7 @@ GameObject:
   - component: {fileID: 1309645432}
   - component: {fileID: 1309645434}
   - component: {fileID: 1309645433}
+  - component: {fileID: 1309645435}
   m_Layer: 0
   m_Name: sucuklu tost
   m_TagString: Untagged
@@ -65353,6 +65410,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1309645435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1309645431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b3de80b5d2dc4dac12594a0b00b69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinValue: 0
 --- !u!1 &1409924212
 GameObject:
   m_ObjectHideFlags: 0
@@ -65426,6 +65496,7 @@ GameObject:
   - component: {fileID: 1433464107}
   - component: {fileID: 1433464109}
   - component: {fileID: 1433464108}
+  - component: {fileID: 1433464110}
   m_Layer: 0
   m_Name: sucuklu tost (1)
   m_TagString: Untagged
@@ -65526,6 +65597,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1433464110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433464106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b3de80b5d2dc4dac12594a0b00b69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinValue: 0
 --- !u!1 &1509933515
 GameObject:
   m_ObjectHideFlags: 0
@@ -68974,6 +69058,7 @@ GameObject:
   - component: {fileID: 2093839689}
   - component: {fileID: 2093839691}
   - component: {fileID: 2093839690}
+  - component: {fileID: 2093839692}
   m_Layer: 0
   m_Name: elma (1)
   m_TagString: Untagged
@@ -69074,6 +69159,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2093839692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2093839688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314b3de80b5d2dc4dac12594a0b00b69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinValue: 0
 --- !u!1001 &2124851972
 PrefabInstance:
   m_ObjectHideFlags: 0
