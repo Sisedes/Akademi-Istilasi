@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class CameraControl : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+    
+        [SerializeField] Transform playerTransform;
+        [SerializeField] float minX, maxX; 
+        [SerializeField] float minY, maxY;
+    private void Update()
+        {
+            transform.position = new Vector3(Mathf.Clamp(playerTransform.position.x, minX, maxX), Mathf.Clamp(playerTransform.position.y, minY, maxY), transform.position.z);
     }
 }
