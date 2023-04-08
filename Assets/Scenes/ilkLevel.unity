@@ -49478,7 +49478,7 @@ GameObject:
   - component: {fileID: 281958119}
   m_Layer: 0
   m_Name: Tilemap - Wall Items
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52638,7 +52638,7 @@ GameObject:
   - component: {fileID: 1214845601}
   m_Layer: 0
   m_Name: Tilemap - Wall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -62658,7 +62658,7 @@ GameObject:
   - component: {fileID: 1549795670}
   m_Layer: 0
   m_Name: "Tilemap - D\u0131sS\u0131n\u0131r"
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -67099,7 +67099,7 @@ GameObject:
   - component: {fileID: 2075912933}
   m_Layer: 0
   m_Name: Tilemap - Tables
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
