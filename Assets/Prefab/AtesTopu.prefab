@@ -12,11 +12,10 @@ GameObject:
   - component: {fileID: 116049283166832338}
   - component: {fileID: 6733598955296177784}
   - component: {fileID: 3335219573223472388}
-  - component: {fileID: 1719892783711853738}
   - component: {fileID: 6868960602701207747}
   m_Layer: 0
   m_Name: AtesTopu
-  m_TagString: Untagged
+  m_TagString: atestopu
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -98,7 +97,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.37355757, y: 0.027909279}
@@ -125,19 +124,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 6
---- !u!114 &1719892783711853738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6409313483658214359}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceca1ac8e28220145a630904ad5264f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tSpeed: 4.5
 --- !u!95 &6868960602701207747
 Animator:
   serializedVersion: 5
