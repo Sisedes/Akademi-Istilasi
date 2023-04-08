@@ -14,7 +14,7 @@ public class Dusman1 : MonoBehaviour
 
     private void patrols()
     {
-        if (gameObject.CompareTag("Serseri") || gameObject.CompareTag("agacAdam") || gameObject.CompareTag("goblin"))
+        if (gameObject.CompareTag("Serseri") || gameObject.CompareTag("agacAdam") || gameObject.CompareTag("goblin") || gameObject.CompareTag("gunMan"))
         {
             if (waypointDest == 0)
             {
