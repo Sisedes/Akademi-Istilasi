@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tulavet.unity
     guid: 37b7e35e41ef08145aa29793e4ba9688
+  - enabled: 1
+    path: Assets/Scenes/olumEkrani.unity
+    guid: 274a0585313872349910be3d0de2603b
   m_configObjects: {}
