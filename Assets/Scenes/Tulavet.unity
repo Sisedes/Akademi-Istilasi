@@ -13758,6 +13758,10 @@ PrefabInstance:
       propertyPath: walkspeed
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 1152655978385084624, guid: 1fef807401101ad4c845ecce63601863, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 6409313483658214359, guid: 3aecc52483b84824d9332f507acf8a3a, type: 3}
     - target: {fileID: 2354450897222879705, guid: 1fef807401101ad4c845ecce63601863, type: 3}
       propertyPath: m_Controller
       value: 
@@ -13809,6 +13813,14 @@ PrefabInstance:
     - target: {fileID: 7519108346997031749, guid: 1fef807401101ad4c845ecce63601863, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8004287365488256263, guid: 1fef807401101ad4c845ecce63601863, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 6409313483658214359, guid: 3aecc52483b84824d9332f507acf8a3a, type: 3}
+    - target: {fileID: 8004287365488256263, guid: 1fef807401101ad4c845ecce63601863, type: 3}
+      propertyPath: gunTransform
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fef807401101ad4c845ecce63601863, type: 3}
