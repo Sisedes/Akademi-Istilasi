@@ -15443,7 +15443,7 @@ GameObject:
   - component: {fileID: 801324142}
   m_Layer: 0
   m_Name: "Tilemap - Map S\u0131n\u0131r\u0131"
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20231,7 +20231,7 @@ GameObject:
   - component: {fileID: 1756413201}
   m_Layer: 0
   m_Name: "Tilemap - zemin \xFCst\xFC"
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
