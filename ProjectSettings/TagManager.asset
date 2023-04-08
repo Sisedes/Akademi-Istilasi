@@ -3,20 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Character
-  - Serseri
 <<<<<<< HEAD
+  tags:
+  - Serseri
+  - Character
+  - goblin
   - gunMan
 =======
-  - agacAdam
-  - goblin
->>>>>>> a3796581a700b22709db3119848364d2e6bead88
+  tags: []
+>>>>>>> ba7b3b3bb93178032e4c9e2927b501a3d4797e39
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Wall
+  - 
   - Water
   - UI
   - 

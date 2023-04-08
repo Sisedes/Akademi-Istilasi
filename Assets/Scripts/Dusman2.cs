@@ -1,12 +1,12 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Dusman : MonoBehaviour
+public class Dusman2 : MonoBehaviour
 {
     [SerializeField] Transform[] waypoints;
     [SerializeField] float movespeed;
     public int waypointDest;
- 
+    [SerializeField] GameObject enemy;
     private void Update()
     {
         patrols();
@@ -31,40 +31,43 @@ public class Dusman : MonoBehaviour
                 if (Vector2.Distance(transform.position, waypoints[1].position) < .2f)
                 {
                     transform.localScale = new Vector2(-5.211222f, transform.localScale.y);
-                    waypointDest = 0;
+                    waypointDest = 2;
                 }
             }
-        }
-        if (gameObject.CompareTag("gunMan"))
-        {
-            if (waypointDest == 0)
+            else if (waypointDest == 2)
             {
-                transform.position = Vector2.MoveTowards(transform.position, waypoints[0].position, movespeed * Time.deltaTime);
-                if (Vector2.Distance(transform.position, waypoints[0].position) < .2f)
+                transform.position = Vector2.MoveTowards(transform.position, waypoints[2].position, movespeed * Time.deltaTime);
+                if (Vector2.Distance(transform.position, waypoints[2].position) < .2f)
                 {
-                    transform.localScale = new Vector2(4.6669f, transform.localScale.y);
-                    waypointDest = 1;
+                    transform.localScale = new Vector2(-5.211222f, transform.localScale.y);
+                    waypointDest = 3;
                 }
             }
-            else if (waypointDest == 1)
+            else if (waypointDest == 3)
             {
-                transform.position = Vector2.MoveTowards(transform.position, waypoints[1].position, movespeed * Time.deltaTime);
-                if (Vector2.Distance(transform.position, waypoints[1].position) < .2f)
+                transform.position = Vector2.MoveTowards(transform.position, waypoints[3].position, movespeed * Time.deltaTime);
+                if (Vector2.Distance(transform.position, waypoints[3].position) < .2f)
                 {
-                    transform.localScale = new Vector2(-4.6669f, transform.localScale.y);
+                    transform.localScale = new Vector2(-5.211222f, transform.localScale.y);
+                    waypointDest = 4;
+                }
+            }
+            else if (waypointDest == 4)
+            {
+                transform.position = Vector2.MoveTowards(transform.position, waypoints[2].position, movespeed * Time.deltaTime);
+                if (Vector2.Distance(transform.position, waypoints[4].position) < .2f)
+                {
+                    transform.localScale = new Vector2(-5.211222f, transform.localScale.y);
                     waypointDest = 0;
                 }
             }
         }
     }
-    
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Character"))
         {
-            SceneManager.LoadScene(4); 
+            SceneManager.LoadScene(5); 
         }
     }
-
-
 }
