@@ -20,7 +20,6 @@ public class ScoreManager : MonoBehaviour
         }
     }
 
-
     public void ChangeScore(int coinValue)
     {
         score += coinValue;
