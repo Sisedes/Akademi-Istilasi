@@ -6,7 +6,12 @@ TagManager:
   tags:
   - Character
   - Serseri
+<<<<<<< HEAD
   - gunMan
+=======
+  - agacAdam
+  - goblin
+>>>>>>> a3796581a700b22709db3119848364d2e6bead88
   layers:
   - Default
   - TransparentFX
