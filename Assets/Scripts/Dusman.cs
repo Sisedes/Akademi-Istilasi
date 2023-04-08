@@ -65,4 +65,6 @@ public class Dusman : MonoBehaviour
             SceneManager.LoadScene(5); 
         }
     }
+
+
 }
