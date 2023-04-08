@@ -19,6 +19,11 @@ public class CharacterControls : MonoBehaviour
     {
         Movement();
         Animate();
+
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            Fire();
+        }
     }
 
     void Movement()
@@ -45,5 +50,13 @@ public class CharacterControls : MonoBehaviour
         {
             transform.localScale = new Vector3(-1, 1, 1);
         }
+    }
+    [SerializeField] Transform shootingPoint;
+    [SerializeField] GameObject prefab;
+    float fireSpeed = 10f;
+    private void Fire()
+    {
+        var fire = Instantiate(prefab, shootingPoint.position, shootingPoint.rotation);
+        fire.GetComponent<Rigidbody2D>().velocity = shootingPoint.up * fireSpeed;
     }
 }
