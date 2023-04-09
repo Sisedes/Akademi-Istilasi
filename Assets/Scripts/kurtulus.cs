@@ -9,7 +9,7 @@ public class kurtulus : MonoBehaviour
     {
         if (collision.CompareTag("Character"))
         {
-            SceneManager.LoadScene(5);
+            SceneManager.LoadScene(6);
         }
     }
 }
