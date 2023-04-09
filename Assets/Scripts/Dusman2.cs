@@ -67,8 +67,7 @@ public class Dusman2 : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Character"))
         {
-            SceneManager.LoadScene(1);
-            dusmanhasaralma.dusmansayýsý = 8;
+            SceneManager.LoadScene(2); 
         }
     }
 }
