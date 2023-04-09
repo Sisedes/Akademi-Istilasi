@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Hikaye.unity
+    guid: 30080d04660ea964c9aab3081c7c29d5
+  - enabled: 1
     path: Assets/Scenes/ilkLevel.unity
     guid: 10c8d815711038e47b6c4aa1d7342387
   - enabled: 1

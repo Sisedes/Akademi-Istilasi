@@ -15629,7 +15629,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bittimi: 0
   teleport: {fileID: 1594047552}
-  dusmanSayisi: {fileID: 0}
+  dusmanSayisi: {fileID: 1035838937}
 --- !u!4 &1147247422
 Transform:
   m_ObjectHideFlags: 0

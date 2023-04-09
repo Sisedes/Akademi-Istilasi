@@ -62,7 +62,7 @@ public class Dusman : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Character"))
         {
-            SceneManager.LoadScene(1); 
+            SceneManager.LoadScene(2); 
         }
     }
 
