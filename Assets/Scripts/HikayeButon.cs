@@ -47,6 +47,12 @@ public class HikayeButon : MonoBehaviour
         }
         else if (sayac == 5)
         {
+            YanKarakter.enabled = false;
+            AnaKarakter.enabled = false;
+            konusma.text = "GÖREVÝN: TÜM ÝSTÝLACILARI DEFETMEK";
+        }
+        else if (sayac == 6)
+        {
             SceneManager.LoadScene(2);
         }
     }
@@ -54,6 +60,5 @@ public class HikayeButon : MonoBehaviour
     {
         sayac++;
         
-
     }
 }
