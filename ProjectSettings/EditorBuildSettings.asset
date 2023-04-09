@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ikinciLevel.unity
     guid: 777b533ca25cd1341a4db3fade66026a
   - enabled: 1
+    path: Assets/Scenes/Tulavet.unity
+    guid: 169bb8e02ce3df247ac1ef839e6c3beb
+  - enabled: 1
     path: Assets/Scenes/ucuncuLevel.unity
     guid: a1b0377453a455449becf363fcc6e29f
   - enabled: 1
