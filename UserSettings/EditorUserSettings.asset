@@ -9,13 +9,55 @@ EditorUserSettings:
       value: 07000c5450500d5d540d5a2741265a4414164a72797e77357f714c67e6b2633e
       flags: 0
     RecentlyUsedSceneGuid-1:
+<<<<<<< HEAD
       value: 5501005f0003510b580d5d2043260e4414164028792e70647b701f60e6b0646a
       flags: 0
     RecentlyUsedSceneGuid-2:
       value: 510002515d510d0c080a547545705c4414151b7a7f7b7f687f2c4935e4b06c68
       flags: 0
     RecentlyUsedSceneGuid-3:
+=======
+<<<<<<< HEAD
+      value: 5154570303020a5d0c085a7348760a44104f412f7471716879281866b3e63568
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+=======
+      value: 550755515150580b5f56597540720a44414f4b7f757d7e36292b4c6ab6b76d6d
+      flags: 0
+<<<<<<< HEAD
+    RecentlyUsedSceneGuid-3:
       value: 5006565100065c5e595f0924407b0e4443161978757f7f63287d1f32bbb66c60
+=======
+    RecentlyUsedSceneGuid-2:
+      value: 06020705540759085a570e7a41215b44434e1c297b7f71347c2b4f37bab73568
+>>>>>>> efec9d78434304da18090424e27cc06b1c4f0fec
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5154570303020a5d0c085a7348760a44104f412f7471716879281866b3e63568
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+<<<<<<< HEAD
+      value: 06020705540759085a570e7a41215b44434e1c297b7f71347c2b4f37bab73568
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+=======
+>>>>>>> 404a1a4947395db4d007a7b5335480eee742142c
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5501005f0003510b580d5d2043260e4414164028792e70647b701f60e6b0646a
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 550755515150580b5f56597540720a44414f4b7f757d7e36292b4c6ab6b76d6d
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 06020705540759085a570e7a41215b44434e1c297b7f71347c2b4f37bab73568
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+>>>>>>> 823d78088b2abbd0154a9dcab6c95716e86656ca
+      value: 5006565100065c5e595f0924407b0e4443161978757f7f63287d1f32bbb66c60
+>>>>>>> efec9d78434304da18090424e27cc06b1c4f0fec
       flags: 0
     RecentlyUsedSceneGuid-4:
       value: 500700535350590e0f565d2642200944414e1c2b2f7971367a7f1967e4b76d69
