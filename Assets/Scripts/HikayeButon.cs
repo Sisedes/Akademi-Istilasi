@@ -43,9 +43,15 @@ public class HikayeButon : MonoBehaviour
         {
             AnaKarakter.enabled = true;
             YanKarakter.enabled = false;
-            konusma.text = "ÝÞTE BENÝM SIRAM!! TÜM AKADEMÝYÝ ÝSTÝLADAN KURTARMALIYIM!!";
+            konusma.text = "ÝÞTE BENÝM SIRAM!! HEP HAYALÝNÝ KURDUÐUM HÝKAYE, TÜM AKADEMÝYÝ ÝSTÝLADAN KURTARMALIYIM!!";
         }
         else if (sayac == 5)
+        {
+            YanKarakter.enabled = false;
+            AnaKarakter.enabled = false;
+            konusma.text = "GÖREVÝN: TÜM ÝSTÝLACILARI DEFETMEK";
+        }
+        else if (sayac == 6)
         {
             SceneManager.LoadScene(2);
         }
@@ -54,6 +60,5 @@ public class HikayeButon : MonoBehaviour
     {
         sayac++;
         
-
     }
 }
