@@ -13878,10 +13878,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8945053577822123993, guid: 4ba875ebc65304c4fa737f0c546dca76, type: 3}
   m_PrefabInstance: {fileID: 465756315}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
 --- !u!1 &499080558
 GameObject:
   m_ObjectHideFlags: 0
@@ -13966,11 +13962,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 823d78088b2abbd0154a9dcab6c95716e86656ca
->>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
 --- !u!1 &579182071
 GameObject:
   m_ObjectHideFlags: 0
@@ -14400,10 +14391,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 662638361}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
 --- !u!1 &679445640
 GameObject:
   m_ObjectHideFlags: 0
@@ -14488,11 +14475,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 823d78088b2abbd0154a9dcab6c95716e86656ca
->>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
 --- !u!1 &690931524
 GameObject:
   m_ObjectHideFlags: 0

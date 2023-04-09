@@ -15,33 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ikinciLevel.unity
     guid: 777b533ca25cd1341a4db3fade66026a
   - enabled: 1
-    path: Assets/Scenes/Tulavet.unity
-    guid: 36456e05b81d2c6479dac17f76d4f791
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
     path: Assets/Scenes/ucuncuLevel.unity
     guid: a1b0377453a455449becf363fcc6e29f
   - enabled: 1
     path: Assets/Scenes/Kazandin.unity
     guid: 2ecef7cfaf618554f89e89784ae51fa0
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/olumEkrani.unity
-    guid: 274a0585313872349910be3d0de2603b
   m_configObjects: {}
