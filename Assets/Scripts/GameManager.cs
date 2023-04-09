@@ -8,15 +8,14 @@ public class GameManager : MonoBehaviour
 
     public bool bittimi;
     public GameObject teleport;
+    [SerializeField] Text dusmanSayisi;
 
-    public Text düþmanText; 
-    
     void Update()
     {
-        düþmanText.text = "X " + dusmanhasaralma.dusmansayýsý.ToString();
-
+        dusmanSayisi.text = "X "+dusmanhasaralma.dusmansayýsý.ToString();
         if (dusmanhasaralma.dusmansayýsý == 0)
         {
+            dusmanSayisi.text = "Kapý Açýldý";
             teleport.SetActive(true);
         }
     }

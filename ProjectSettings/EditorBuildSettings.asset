@@ -10,20 +10,38 @@ EditorBuildSettings:
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/ilkLevel.unity
-    guid: e33c120379b81bd459dc777d1b2d87a0
+    guid: 10c8d815711038e47b6c4aa1d7342387
   - enabled: 1
     path: Assets/Scenes/ikinciLevel.unity
-    guid: 66a74e10285701547835958fdb194795
-  - enabled: 1
-    path: Assets/Scenes/ucuncuLevel.unity
-    guid: 6049e6805c1b3e14ba8b5f6469b3d002
+    guid: 777b533ca25cd1341a4db3fade66026a
   - enabled: 1
     path: Assets/Scenes/Tulavet.unity
-    guid: 37b7e35e41ef08145aa29793e4ba9688
+    guid: 36456e05b81d2c6479dac17f76d4f791
   - enabled: 0
-    path: Assets/Scenes/olumEkrani.unity
-    guid: 274a0585313872349910be3d0de2603b
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ucuncuLevel.unity
+    guid: a1b0377453a455449becf363fcc6e29f
   - enabled: 1
     path: Assets/Scenes/Kazandin.unity
     guid: 2ecef7cfaf618554f89e89784ae51fa0
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/olumEkrani.unity
+    guid: 274a0585313872349910be3d0de2603b
   m_configObjects: {}

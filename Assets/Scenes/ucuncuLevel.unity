@@ -288,7 +288,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &31886502
@@ -4416,7 +4420,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &57761410
@@ -20669,7 +20677,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &216870455
@@ -21008,7 +21020,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &331884386
@@ -21208,7 +21224,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &432429529
@@ -21742,7 +21762,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &618377532
@@ -23093,7 +23117,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1001 &1170691080
@@ -27914,7 +27942,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bittimi: 0
   teleport: {fileID: 1247478992}
+<<<<<<< HEAD
   "d\xFC\u015FmanText": {fileID: 0}
+=======
+  dusmanSayisi: {fileID: 359350062}
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
 --- !u!4 &1398847484
 Transform:
   m_ObjectHideFlags: 0
@@ -30698,7 +30730,11 @@ SpriteRenderer:
   m_Size: {x: 1.0714285, y: 1.3571428}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 0
+=======
+  m_WasSpriteAssigned: 1
+>>>>>>> 2e8baa93a0be4419bef27dce004709155cce1a40
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &2011232839
