@@ -123,51 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &46650741
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 46650743}
-  - component: {fileID: 46650742}
-  m_Layer: 0
-  m_Name: MenuController
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &46650742
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 46650741}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1a5a2bc5d0ca7fd4e8ab0e18f81b0aaa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  panel: {fileID: 1333584352}
---- !u!4 &46650743
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 46650741}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 677, y: 291, z: 2.0655665}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &63796701
 GameObject:
   m_ObjectHideFlags: 0
@@ -194,8 +149,13 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 63796701}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
+  m_LocalPosition: {x: 0.0315, y: -0.23, z: 0}
+  m_LocalScale: {x: 2.3482919, y: 2.3456473, z: 1}
+=======
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1333584355}
@@ -638,9 +598,12 @@ RectTransform:
   - {fileID: 105678975}
   - {fileID: 256084873}
   - {fileID: 1791010552}
+<<<<<<< HEAD
+=======
   - {fileID: 1681919458}
   - {fileID: 686727087}
   - {fileID: 1333584355}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -758,6 +721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e77104d0246ecd4f80ccb6e89db502a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  panel: {fileID: 1333584352}
 --- !u!4 &503215041
 Transform:
   m_ObjectHideFlags: 0
@@ -771,7 +735,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &506391730
 GameObject:
@@ -1211,8 +1175,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+  m_AnchoredPosition: {x: -665, y: 265}
+  m_SizeDelta: {x: 493.18, y: 148.46}
+=======
   m_AnchoredPosition: {x: -669, y: 183}
   m_SizeDelta: {x: 459.67, y: 140.08}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_Pivot: {x: 0.50000006, y: 0.5}
 --- !u!114 &1045347265
 MonoBehaviour:
@@ -1258,9 +1227,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 46650742}
-        m_TargetAssemblyTypeName: Scene, Assembly-CSharp
-        m_MethodName: oyunBaslat
+      - m_Target: {fileID: 503215040}
+        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
+        m_MethodName: BaslatTusu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1328,7 +1297,11 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+<<<<<<< HEAD
+--- !u!1 &1791010551
+=======
 --- !u!1 &1110276409
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1336,28 +1309,56 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 1791010552}
+  - component: {fileID: 1791010554}
+  - component: {fileID: 1791010553}
+  m_Layer: 5
+  m_Name: OyunIsmi
+=======
   - component: {fileID: 1110276410}
   - component: {fileID: 1110276412}
   - component: {fileID: 1110276411}
   m_Layer: 5
   m_Name: Image (4)
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!224 &1791010552
+=======
 --- !u!224 &1110276410
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1791010551}
+  m_LocalRotation: {x: -0, y: -0, z: -0.023472797, w: 0.9997245}
+=======
   m_GameObject: {fileID: 1110276409}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< HEAD
+  m_Father: {fileID: 375639242}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -2.69}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 8, y: 180.1}
+  m_SizeDelta: {x: 360.15, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1791010553
+=======
   m_Father: {fileID: 1333584355}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1367,12 +1368,17 @@ RectTransform:
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1110276411
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1791010551}
+=======
   m_GameObject: {fileID: 1110276409}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -1386,7 +1392,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
+  m_Sprite: {fileID: 21300000, guid: a73cd4196d757e84eb7b140b1bd6b4f0, type: 3}
+=======
   m_Sprite: {fileID: 777281972, guid: e607d077796b9414b92a73df9c867f09, type: 3}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1396,6 +1406,9 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< HEAD
+--- !u!222 &1791010554
+=======
 --- !u!222 &1110276412
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1421,7 +1434,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1333584353
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1650,8 +1663,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 46650742}
-        m_TargetAssemblyTypeName: Scene, Assembly-CSharp
+      - m_Target: {fileID: 503215040}
+        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
         m_MethodName: kappa
         m_Mode: 1
         m_Arguments:
@@ -1984,11 +1997,15 @@ MonoBehaviour:
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1681919460
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1791010551}
+=======
   m_GameObject: {fileID: 1681919457}
   m_CullTransparentMesh: 1
 --- !u!1 &1786176381
@@ -2218,6 +2235,7 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1811137790}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_CullTransparentMesh: 1
 --- !u!1 &1884242193
 GameObject:
@@ -2257,8 +2275,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+  m_AnchoredPosition: {x: -662, y: 52}
+  m_SizeDelta: {x: 486.86, y: 138.56}
+=======
   m_AnchoredPosition: {x: -671, y: -183}
   m_SizeDelta: {x: 461.5, y: 138.56}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1884242195
 MonoBehaviour:
@@ -2304,9 +2327,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 46650742}
-        m_TargetAssemblyTypeName: Scene, Assembly-CSharp
-        m_MethodName: oyunBaslat
+      - m_Target: {fileID: 503215040}
+        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
+        m_MethodName: "C\u0131k\u0131sTusu"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2374,6 +2397,8 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+<<<<<<< HEAD
+=======
 --- !u!1 &2008040218
 GameObject:
   m_ObjectHideFlags: 0
@@ -2555,8 +2580,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 46650742}
-        m_TargetAssemblyTypeName: Scene, Assembly-CSharp
+      - m_Target: {fileID: 503215040}
+        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
         m_MethodName: Ayarlar
         m_Mode: 1
         m_Arguments:
@@ -2731,5 +2756,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> 5787520c65583ac807af9fc5dcf88cb9221ad44c
